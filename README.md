@@ -1,7 +1,7 @@
 # Excel-DataAnalyst-Portfolio
-Excel dashboards and projects created during my Data Analyst learning journey
 👋 Hi, I'm Tusharojha
-I am an aspiring Data Analyst with strong hands-on experience in Excel.
+I am aspiring Data Analyst with strong hands-on experience in Excel.
+Here i present Excel dashboards and projects created during my Data Analyst learning journey.
 
 🔧 Skills
 - Advanced Excel
